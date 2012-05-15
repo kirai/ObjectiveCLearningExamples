@@ -18,5 +18,12 @@ Compile: clang example1.m -o example1 -framework Foundation
 
 ##example2.m
 
-Description:
+Description: Hello World and Accumulator
+
+Learned: 
+  * How to use the compiler directives @property and @synthesize
+  * How using @property and @synthesize let's use use the static variable using
+    getters/setters instead of us having to create methods to access the var.
+
+Compile: clang example2.m -o example2 -framework Foundation
 
