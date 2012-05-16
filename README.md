@@ -27,3 +27,13 @@ Learned:
 
 Compile: clang example2.m -o example2 -framework Foundation
 
+##example3.m
+
+Description: using NSArray 
+
+Learned: 
+  * NSArray initWithObjects, description, count and objectAtIndex methods
+
+Compile: clang example3.m -o example3 -framework Foundation
+
+
