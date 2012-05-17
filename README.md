@@ -36,4 +36,11 @@ Learned:
 
 Compile: clang example3.m -o example3 -framework Foundation
 
+##example4.m
 
+Description: more about NSArray and NSString
+
+Learned: 
+  * How to use isEqualToString
+
+Compile: clang example4.m -o example4 -framework Foundation
