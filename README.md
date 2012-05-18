@@ -44,3 +44,14 @@ Learned:
   * How to use isEqualToString
 
 Compile: clang example4.m -o example4 -framework Foundation
+
+##example5.m
+
+Description: adding a method to NSArray
+
+Learned:
+  * learned how to extend the functionality of a class by using "Categories"
+
+Compile: clang example5.m -o example5 -framework Foundation
+
+
