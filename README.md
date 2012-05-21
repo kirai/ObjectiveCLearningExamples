@@ -54,7 +54,7 @@ Learned:
 
 Compile: clang example5.m -o example5 -framework Foundation
 
-##example.m
+##example6.m
 
 Description: send an HTTP GET resquest and outputs the results
 
@@ -63,4 +63,8 @@ Learned:
 
 Compile: clang example6.m -o example6 -framework Foundation
 
+##example7.m
 
+Description: the same as example6 but converting NSData to NSString using the appropiate encoding
+
+ 
