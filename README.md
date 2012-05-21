@@ -54,4 +54,13 @@ Learned:
 
 Compile: clang example5.m -o example5 -framework Foundation
 
+##example.m
+
+Description: send an HTTP GET resquest and outputs the results
+
+Learned:
+  * Learned how to use NSURL, NSURLRequest and NSURLConnection
+
+Compile: clang example6.m -o example6 -framework Foundation
+
 
