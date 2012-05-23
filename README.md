@@ -54,4 +54,16 @@ Learned:
 
 Compile: clang example5.m -o example5 -framework Foundation
 
+##example6.m
+
+Description: creating and playing with a Fraction class
+
+Learned: 
+  * How to divide your project in many files
+  * How to send more than one message to a method
+  * How to implement your own init
+  * Using oldkool libc99 C studio.h
+
+Compile: clang example6.m fraction.m -o example6 -framework Foundation -std=c99
+
 
